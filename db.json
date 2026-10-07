@@ -1,0 +1,32 @@
+{
+  "pessoas": [
+    {
+      "id": "2",
+      "nome": "João",
+      "sobrenome": "Souza",
+      "email": "joao@email.com",
+      "idade": 30,
+      "telefone": "11988888888",
+      "rua": "Rua Brasil",
+      "bairro": "Jardim",
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "rg": "987654321",
+      "cpf": "98765432100"
+    },
+    {
+      "nome": "Otavio",
+      "sobrenome": "RR",
+      "email": "otavioramosribeiro@gmail",
+      "idade": 33,
+      "telefone": "11998524817",
+      "rua": "ra",
+      "bairro": "Conjunto Residencial Santana",
+      "cidade": "Arujá",
+      "estado": "SP",
+      "rg": "233333333333",
+      "cpf": "222222222222",
+      "id": "fBMYNyL"
+    }
+  ]
+}
